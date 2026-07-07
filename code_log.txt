@@ -1,0 +1,10 @@
+2026-Jul-07-20:00:24 : Data extraction complete. Initiating Transformation process 
+2026-Jul-07-20:02:57 : Data extraction complete. Initiating Transformation process 
+2026-Jul-07-20:05:41 : Data extraction complete. Initiating Transformation process 
+2026-Jul-07-20:12:26 : Data extraction complete. Initiating Transformation process 
+2026-Jul-07-20:12:26 : Data transformation complete. Initiating Loading process 
+2026-Jul-07-20:12:26 : Data saved to CSV file 
+2026-Jul-07-20:12:26 : SQL Connection initiated 
+2026-Jul-07-20:12:27 : Data loaded to Database as a table, Executing queries 
+2026-Jul-07-20:12:27 : Process Complete 
+2026-Jul-07-20:12:27 : Server Connection closed 
